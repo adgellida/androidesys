@@ -1,7 +1,5 @@
-# androidesys
+<img src="https://raw.githubusercontent.com/adgellida/androidesys/master/images/androidesys.ico" width="80"> androidesys
 =============================================
-
-<img src="https://raw.githubusercontent.com/adgellida/androidesys/master/images/androidesys.ico" width="80">
 
 Configurable app referent to configurations.
 
