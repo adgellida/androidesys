@@ -19,7 +19,7 @@ Configurable app referent to configurations.
 What this program do
 =============================================
 
-Right now is on dev stage. Don't use it.
+Right now is on dev stage. Don't use it. Paused development.
 
 Tutorial
 =============================================
