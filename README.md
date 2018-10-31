@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/adgellida/androidesys/master/images/androidesys.ico" width="80"> androidesys
+<img src="https://raw.githubusercontent.com/adgellida/androidesys/master/logo.png" width="80"> androidesys
 =============================================
 
 <p align="center">
@@ -19,7 +19,7 @@ Configurable app referent to configurations.
 What this program do
 =============================================
 
-Right now is on dev stage. Don't use it. Paused development.
+Right now is on dev stage. Don't use it. Paused development. Possibly go to Flutter.
 
 Tutorial
 =============================================
